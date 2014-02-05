@@ -1,5 +1,4 @@
-
-@extend('layouts.master')
+@extends('layouts.master')
 
 @section('content')
 <h1>All Tasks</h1>
